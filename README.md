@@ -1,5 +1,3 @@
-Here's the formatted README file suitable for a GitHub repository:
-
 ---
 
 # Adactin Hotel Testing - Manual Testing
